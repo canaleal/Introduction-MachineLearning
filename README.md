@@ -10,6 +10,7 @@
 
 - [Introduction](#introduction)
 - [Technologies](#technologies)
+- [Advice](#advice)
 - [Foundation](#foundation)
 - [Learning Material](#learning)
 - [Data](#data)
@@ -42,6 +43,19 @@ Machine learning is a rapidly growing field that uses algorithms and statistical
   </tr>
  </table>
 </div>
+
+<h1 id="advice">Advice</h1>
+
+If you're interested in getting into machine learning, don't be intimidated by the idea that you need a Master's degree in math. Many machine learning engineers and data scientists have successfully transitioned from software engineering positions with only a basic understanding of math, such as linear algebra, calculus, and statistics. Of course, there may be situations where you'll need to study higher-level math to implement a specific paper, but that's something you can tackle as needed.
+
+My advice would be to brush up on your high school math and some undergraduate-level math, specifically eigen vectors and probability and statistics. Since you're already proficient at coding (Probably), you can start going through the documentation of popular machine learning frameworks like pyTorch or TensorFlow as needed. Personally, I recommend starting with Keras because it's easy and allows you to focus on the underlying logic without getting bogged down in coding details. Once you feel confident enough to visualize what's happening naturally (similar to how you instinctively write code in an object-oriented programming format), then you can move on to more advanced frameworks like pyTorch or TensorFlow.
+
+
+## Finding a Niche/ Interest
+
+When it comes to getting started with machine learning, it's important to find a niche that interests you. (Mine is computer vision cause it's fun and looks super cool) Maybe you're fascinated by image recognition, or you're interested in using machine learning to help with fraud detection. Whatever your niche, find a tutorial that can guide you through the basics. There are plenty of tutorials available online for free, so you don't need to spend a lot of money to get started. Once you've completed a tutorial, challenge yourself by choosing a simple project to work on. This could be anything from building a chatbot to predicting stock prices. Don't worry if your project seems basic at first – the goal is to get your feet wet and start building your skills.
+
+As you work on your project, take advantage of resources like GitHub to find repositories that solve similar problems. This can help you learn new techniques and get inspiration for how to approach your own project. And whenever you encounter a new concept or term that you're not familiar with, don't be afraid to google it and take your time to learn and understand it fully. Remember, learning machine learning is a journey, and it's okay to take your time and make mistakes along the way. As you continue to follow tutorials, work on projects, and expand your knowledge, you'll gain more confidence and be able to take on increasingly complex challenges.
 
 <h1 id="foundation">Foundation</h1>
 
