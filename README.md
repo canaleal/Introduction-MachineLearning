@@ -13,12 +13,13 @@
 - [Foundation](#foundation)
 - [Learning Material](#learning)
 - [Data](#data)
+- [FAQs](#faq)
 
 
 <h1 id="introduction">Introduction</h1>
 
 
-Machine learning is a rapidly growing field that uses algorithms and statistical models to enable computers to learn and improve from experience. It has become a vital tool in a variety of applications, from self-driving cars and voice recognition systems to fraud detection and personalized marketing. In this readme on machine learning, we will explore the basics of the field, including its various types, techniques, and tools. We will discuss the fundamental concepts of supervised and unsupervised learning, as well as the role of deep learning and neural networks in solving complex problems. We will also examine the real-world applications of machine learning, such as image recognition and natural language processing, and how it is transforming various industries.
+Machine learning is a rapidly growing field that uses algorithms and statistical models to enable computers to learn and improve from experience. It has become a vital tool in a variety of applications, from self-driving cars and voice recognition systems to fraud detection and personalized marketing. If you are interested in getting started with machine learning, this README is here to provide you with a quick overview of some commonly asked questions and useful resources. Note, I will be creating basic code templates and commiting them to this repo.
 
 
 <h1 id="technologies">Technologies</h1>
@@ -71,7 +72,6 @@ Machine learning is a rapidly growing field that uses algorithms and statistical
       </li>
    </ul>
 </div>
-
 
 
 <h1 id="learning">Learning Material</h1>
@@ -238,3 +238,29 @@ Machine learning is a rapidly growing field that uses algorithms and statistical
    </tbody>
 </table>
 
+
+<h1 id="faq">FAQ</h1>
+
+## What skills do I need to learn machine learning?
+
+To learn machine learning, you will need a strong foundation in programming, math (linear algebra, calculus, probability, and statistics), and data analysis. Some knowledge of algorithms and data structures will also be helpful.
+
+## What programming languages are commonly used in machine learning?
+
+Python is the most commonly used programming language for machine learning, followed by R. There are also some libraries and frameworks like TensorFlow, PyTorch, and Scikit-learn that make it easier to work with machine learning algorithms in these languages.
+
+## What are some important machine learning algorithms to learn?
+
+Some important machine learning algorithms to learn include linear regression, logistic regression, decision trees, k-nearest neighbors, random forests, support vector machines (SVMs), and neural networks.
+
+## What are some challenges in machine learning?
+
+Some common challenges in machine learning include overfitting, underfitting, data quality, bias, interpretability, privacy, security, and scalability.
+
+## What are some job opportunities in machine learning?
+
+There are many job opportunities in machine learning, including machine learning engineer, data scientist, research scientist, software engineer, and data analyst. Many industries are investing in machine learning, so there are opportunities in healthcare, finance, e-commerce, and other areas. In Canada, the average machine learning developer makes around $98,000 per year as shown on [Glassdoor](https://www.glassdoor.ca/Salaries/machine-learning-engineer-salary-SRCH_KO0,25.htm)
+
+## How long does it take to learn machine learning?
+
+The time it takes to learn machine learning depends on your background knowledge and how much time you can devote to learning. Some people can learn the basics in a few weeks, while others may take several months to become proficient. It's important to be patient and persistent, and to keep practicing and applying what you learn.
